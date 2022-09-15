@@ -1,8 +1,8 @@
 ## Carlos Henrique Miorin Gonçalves 🚀
 ---
 ### CX, UX e CS
----
     - *customer experience, user experience e customer success.*
+    
     
 ---
 ***Colaborador e estudante da UniFil
