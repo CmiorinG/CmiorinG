@@ -1,7 +1,7 @@
 ## Carlos Henrique Miorin Gonçalves 💻🚀
 ---
-### CX, UX e CS
-    - customer experience, user experience e customer success.
+### CX, UX e CS (JR)
+    - customer experience, user experience e customer success. 
     
     
 
@@ -10,7 +10,6 @@
 ---
 #### Formação
 - **Engenharia de Software UniFil - (Cursando -Previsão de conclusão 2025)**
-- 
 - Bacharelado Administração de empresas (trancado)
 - Técnico em Recursos Humanos – UniFil
 ---
@@ -19,8 +18,8 @@
 - ChatBot
 - Iniciação cientifica IA - FJSSP
 #### Experiências 
-- **Supervisor de canais digitais UniFil (atual)*
+- **Supervisor de canais digitais UniFil (atual)**
 - Auxiliar administrativo - UniFil
 - Atendimento ao cliente e vendas - UniFil
---
+---
 [Linkedin](https://www.linkedin.com/in/carlos-henrique-645b4821b/) 
