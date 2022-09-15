@@ -4,14 +4,9 @@
     - customer experience, user experience e customer success.
     
     
----
-     *Colaborador e estudante da UniFil
-Atualmente atuo na gestão dos canais digitais , com
-equipes de venda e suporte ao cliente.
-Estratégias de comunicação , campanhas, análise e
-comportamento de base, criação de métricas e relatórios,
-controle de qualidade , experiência do usuário ( CRM e
-Chat bot)*
+--
+*Colaborador e estudante da UniFil atualmente atuo na gestão dos canais digitais , com equipes de venda e suporte ao cliente. Estratégias de comunicação , campanhas, análise e comportamento de base, criação de métricas e relatórios, controle de qualidade, experiência do usuário ( CRM e Chat bot)*
+
 ---
 #### Formação
 - **Engenharia de Software - (cursando -Previsão de conclusão 2025)**
