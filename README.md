@@ -5,7 +5,7 @@
     
     
 ---
-*Colaborador e estudante da UniFil
+     *Colaborador e estudante da UniFil
 Atualmente atuo na gestão dos canais digitais , com
 equipes de venda e suporte ao cliente.
 Estratégias de comunicação , campanhas, análise e
